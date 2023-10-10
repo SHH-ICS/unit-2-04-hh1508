@@ -11,3 +11,18 @@ for myNumber in range(32):
   result = str(result) + str(myNumber) + "\n"
 
 print(result)
+
+for i in range(32)
+    print("i+1")
+if (i+1)%3 == 0:
+    print("Fizz")
+else:
+    print("i+1") 
+if (i+1)%5 == 0:
+    print("Buzz")
+else: 
+    print("i+1")
+if (i+1)%15 == 0:
+    print("Fizzbuzz")
+else: 
+    print("i+1")
